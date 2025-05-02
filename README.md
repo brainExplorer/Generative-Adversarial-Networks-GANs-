@@ -1,3 +1,4 @@
+```yaml
 name: Image Generation using GANs with PyTorch
 description: |
   This project demonstrates how to generate images using Generative Adversarial Networks (GANs) in PyTorch. 
